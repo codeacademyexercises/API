@@ -1,0 +1,19 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.0.0",
+    "jest": "^24.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1"
+  }
+}
